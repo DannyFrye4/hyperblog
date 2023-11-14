@@ -1,4 +1,5 @@
 historia.txt
 soy Daniel CM
 tengo 20 años 
-Soy de n proceso de ser el mejor programador 
+Soy de Mexico
+estoy en proceso de ser el mejor programador 
