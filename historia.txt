@@ -1,5 +1,4 @@
 historia.txt
 soy Daniel CM
-tengo 18 años 
-Soy de Mexico 
-estoy estudiando programacion y me va muy mal
+tengo 20 años 
+Soy de n proceso de ser el mejor programador 
